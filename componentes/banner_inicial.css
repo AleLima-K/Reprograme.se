@@ -1,0 +1,60 @@
+    body {
+        background-color: #291E50;
+    }
+    
+    #banner_img {
+        position: absolute;
+        top: 0px;
+        z-index: -1;
+    }
+    
+    #sobre_img {
+        margin-top: 100vh;
+    }
+    
+    #titulo_banner_inicial {
+        margin-left: 80vh;
+        text-align: center;
+        margin-top: 20vh;
+        color: #ffff;
+    }
+    
+    #ame_titulo {
+        color: #E962FF;
+    }
+    
+    #grad_titulo {
+        position: relative;
+        background: linear-gradient(180deg, #FE6229 0%, #FC396B 56.77%, #FC376E 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    }
+    
+    #grad_fecha_titulo {
+        position: relative;
+        background: linear-gradient(180deg, #FE6229 0%, #FC396B 56.77%, #FC376E 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    }
+    
+    #subtitulo_banner_inicial {
+        margin-left: 80vh;
+        position: relative;
+        top: 13vh;
+        color: #ffff;
+        text-align: center;
+    }
+    
+    #menu_itens {
+        color: #ffff;
+    }
+    
+    #carrossel {
+        top: 3vh;
+    }
+    
+    #img_carrossel {
+        margin-left: 80vh;
+    }

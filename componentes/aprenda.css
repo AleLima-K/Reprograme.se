@@ -1,0 +1,30 @@
+h1 {
+    background: linear-gradient(180deg, #E962FF 10.42%, #C674FF 61.46%, #07D2FE 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: bolder;
+    text-align: left;
+}
+
+h4 {
+    color: white;
+}
+
+#texto_aprenda {
+    margin-top: 20vh;
+}
+
+#texto_sobre2 {
+    margin-top: 30vh;
+    margin-left: 3vh;
+}
+
+#app {
+    background: linear-gradient(180deg, #E962FF 10.42%, #C674FF 61.46%, #07D2FE 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: bolder;
+    text-align: center;
+}

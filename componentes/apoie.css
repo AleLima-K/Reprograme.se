@@ -1,0 +1,13 @@
+#titulo_apoie {
+    background: linear-gradient(180deg, #E962FF 10.42%, #C674FF 61.46%, #07D2FE 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-left: 3vh;
+}
+
+#divisor_apoie {
+    background: linear-gradient(180deg, #E962FF 10.42%, #C674FF 61.46%, #07D2FE 100%);
+    width: 70vh;
+    margin-left: 3vh;
+}
